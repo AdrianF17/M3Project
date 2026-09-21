@@ -1,7 +1,7 @@
 package edu.fscj.cen3024c.taskmanager.controllers;
 
 
-import edu.fscj.cen3024c.taskmanager.entities.Task;
+import edu.fscj.cen3024c.taskmanager.Task;
 import edu.fscj.cen3024c.taskmanager.services.TaskService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
